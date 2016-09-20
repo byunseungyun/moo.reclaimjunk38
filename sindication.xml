@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://moo.reclaimjunk.xyz</id>
+  <title><![CDATA[ 군포철거의왕철거 ]]></title>
+  <author>
+    <name>모두종합철거</name>
+  </author>
+
+  <updated>2016-09-20T16:24:00+09:00</updated>
+  <link rel="site" href="http://moo.reclaimjunk.xyz" />
+
+  
+  <entry>
+    <id>http://moo.reclaimjunk.xyz/posts/2016/09/19/post.html</id>
+    <title><![CDATA[ Post ]]></title>
+    <author>
+      <name>모두종합철거</name>
+    </author>
+    <updated>2016-09-19T10:00:00+09:00</updated>
+    <published>2016-09-19T10:00:00+09:00</published>
+    <link rel="via" href="http://moo.reclaimjunk.xyz/posts/2016/09/19/post.html" />
+    <content type="html"><![CDATA[  
+ ]]></content>
+  </entry>
+  
+</feed>
